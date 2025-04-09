@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Bernjacon
 - 👀 I’m interested in coding in C# & C++.
-- 🌱 I’m currently learning C# & C++ & git.
+- 🌱 I’m currently learning C# & C++
 - 💞️ I’m looking to collaborate on whatever.
 - 📫 How to reach me .
 - 😄 Pronouns: she/her.
